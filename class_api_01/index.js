@@ -8,8 +8,6 @@ Bun.serve({
   
         "/":
             new Response("Hello from Bun API side!"),
-
-
         "/api/status": new Response("OK"),
 
   
