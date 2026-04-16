@@ -3,7 +3,7 @@ This repo it's my learning path of Javascript
 
 Running code using Bun and Node:
 
-      bun run script.js
+      bun script.js
 
       node script.js
 
